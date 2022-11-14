@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">My Resume</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="button_label_count">Count</string>
+    <string name="count_initial_value">0</string>
+    <string name="toast_message">Hello Toast!</string>
+    <string name="name">Arad Maleki</string>
+    <string name="title1">Introduction</string>
+    <string name="text1">Hi! I am a Computer Engineering student currently studying at <i>Sharif University of Technology</i>. I have an interest in both Data Science and Software Engineering and I\'m currently trying to figure out the best route to take for a career.</string>
+    <string name="title2">Education</string>
+    <string name="text2">I Graduated from <i>Allameh Helli</i> High School in June 2020. During that time, I participated in Iran\'s National Mathematics Olympiad as well as the Informatics Olympiad. I Earned a <b>Certificate of Honourable Mention</b> in Mathematics and got accepted into <i>Sharif</i> university by performing well in Iran\'s Nationwide universities\' entrance exam. I am currently a third year Bachelor\'s student.</string>
+    <string name="title3">Volunteer Work</string>
+    <string name="text3">One of my Volunteer works is being a <i>Teacher\'s Assistant (TA)</i> in multiple courses such as <i>Fundamentals of Programming</i> and <i>Advanced Programming</i>. During my time as a TA, I improved many of my skills such as <b>Helping students with their problems</b>, <b>Working under Time Pressure</b>, <b>Teamwork</b>, etc. Another Volunteer job I took was a Software engineering internship at <i>Mohaymen ITC Company</i> which helped me broaden my knowledge of <i>Object Oriented Programming</i>, <i>Unit testing</i>, <i>Automated testing</i>, and several other useful skills, as well as working in teams to create a practical project.</string>
+    <string name="call_button">Call me</string>
+    <string name="phone_number">+989209206172</string>
 </resources>
