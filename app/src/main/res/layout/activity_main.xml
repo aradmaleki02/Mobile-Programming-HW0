@@ -28,7 +28,7 @@
         <TextView
             android:id="@+id/name"
             android:layout_width="match_parent"
-            android:layout_height="59dp"
+            android:layout_height="72dp"
             android:ellipsize="end"
             android:gravity="center"
             android:maxLines="1"
@@ -106,10 +106,12 @@
         <Button
             android:id="@+id/call_button"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="93dp"
             android:backgroundTint="#E91E63"
             android:insetLeft="50dp"
+            android:insetTop="15dp"
             android:insetRight="50dp"
+            android:insetBottom="15dp"
             android:onClick="callMe"
             android:text="@string/call_button" />
 
