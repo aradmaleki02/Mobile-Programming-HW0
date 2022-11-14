@@ -2,4 +2,13 @@
 <resources>
     <dimen name="pfp_top_padding">50dp</dimen>
     <dimen name="pfp_layout_height">200dp</dimen>
+    <dimen name="pfp_border_width">4dp</dimen>
+    <dimen name="name_height">72dp</dimen>
+    <dimen name="title_top_padding">10dp</dimen>
+    <dimen name="title_side_padding">20dp</dimen>
+    <dimen name="text_top_padding">5dp</dimen>
+    <dimen name="text_side_padding">20dp</dimen>
+    <dimen name="call_me_height">93dp</dimen>
+    <dimen name="call_me_side_padding">50dp</dimen>
+    <dimen name="call_me_top_padding">15dp</dimen>
 </resources>
