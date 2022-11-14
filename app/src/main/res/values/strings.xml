@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">My Resume</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="button_label_count">Count</string>
+    <string name="count_initial_value">0</string>
+    <string name="toast_message">Hello Toast!</string>
     <string name="name">Arad Maleki</string>
     <string name="title1">Introduction</string>
     <string name="text1">Hi! I am a Computer Engineering student currently studying at <i>Sharif University of Technology</i>. I have an interest in both Data Science and Software Engineering and I\'m currently trying to figure out the best route to take for a career.</string>
