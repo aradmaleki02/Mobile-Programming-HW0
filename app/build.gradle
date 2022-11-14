@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.myresume'
+    namespace 'com.aradmaleki.myresume'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.myresume"
+        applicationId "com.aradmaleki.myresume"
         minSdk 23
         targetSdk 32
         versionCode 1

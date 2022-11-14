@@ -1,4 +1,4 @@
-package com.example.myresume;
+package com.aradmaleki.myresume;
 
 import androidx.appcompat.app.AppCompatActivity;
 
